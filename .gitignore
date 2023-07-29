@@ -2,6 +2,8 @@
 !.gitignore
 !.clang-format
 !.pre-commit-config.yaml
+!.travis.yaml
+!.github/
 CMakeFiles/
 cmake_install.cmake
 *.ninja
