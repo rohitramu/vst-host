@@ -1,6 +1,7 @@
 .*
 !.gitignore
 !.clang-format
+!.pre-commit-config.yaml
 CMakeFiles/
 cmake_install.cmake
 *.ninja
