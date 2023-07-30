@@ -18,3 +18,9 @@ repos:
     rev: v16.0.6
     hooks:
       - id: clang-format
+
+ci:
+  # https://pre-commit.ci/#configuration
+  autofix_prs: true
+  autoupdate_schedule: "weekly"
+  skip: []
